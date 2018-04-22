@@ -18,7 +18,7 @@ About:
 Stuff you can do:
 
 <ul>
-<li>Watch everything at the live-<strong>preview</strong> page: <a href="https://eladkarako.com/whatsapp-emoji/">eladkarako.com/whatsapp-emoji/</a></li>
+<li>Watch everything at the live-<strong>preview</strong> page: <a href="http://eladkarako.com/whatsapp-emoji/">eladkarako.com/whatsapp-emoji/</a></li>
 <li><a href="https://github.com/eladkarako/whatsapp-emoji/archive/master.zip">Download the entire thing</a> (~10MB)</li>
 <li><a href="https://github.com/eladkarako/partial-download-github-repository">How To Download A Single Folder?</a></li>
 <li>Gather it all yourself (developers): Download latest APK from <a href="https://www.apkmirror.com/apk/whatsapp-inc/">apkmirror.com/apk/whatsapp-inc</a>,
