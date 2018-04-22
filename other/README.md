@@ -1,0 +1,1 @@
+images that are part of the whatsapp program user-interface, several resolutions are available for each.
