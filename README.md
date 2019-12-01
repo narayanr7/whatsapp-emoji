@@ -4,7 +4,7 @@
 
 About:
 <ul>
-<li>Emoji - PNG (probably what you want) [2,565 images].</li>
+<li>Emoji - PNG (probably what you want) [2,796 images].</li>
 <li>Emoji - SVG (from the writing-on-picture feature) [259 images].</li>
 <li>Other - Images that are part of the user-interface (mostly PNG, several resolutions available) [1,866 images]</li>
 </ul>
